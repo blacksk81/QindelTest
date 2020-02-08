@@ -1,0 +1,33 @@
+1.- Maquetacion en dos breakpoint sin framework  bootstrap a css puro y duro con flexbox
+
+2.- Plugin con Ctp, Taxonomias, crear Metaboxes, isset input of the dash, mostrat y llmar function, New Wp_queries, sanitizacion de datos introducidos y shortcode.
+
+el folder Plugin_qindel colocr en plugin ir al dash activar, luego crear la pagina y colocar el shortcode.
+
+
+//**************************************************************//
+//								//
+//	     Colocar shorcode en el Wysiwyg editor		//
+// 		   Shortcode -> [ftaview]    			//
+//								//
+//**************************************************************//
+
+
+3.- Themes esta lo mismo para  page template
+	- header-onlyhead.php : header que se usa el page-qindel.php
+	- page-qindel.php : contenido de lso acf que esta en el json en el folder Acf_tools_import 
+	- acf_php_import_filed.php : los field de acf
+	- acf-export-2020-01-27.json : con las estructura del Acf
+	- qindel.css : hoja de estilo que es igual tanto para el page como para el plugins
+
+
+
+sopport WordPress 5.3.2
+
+Docs.
+https://github.com/blacksk81/
+http://codex.wordpress.org/
+https://developer.wordpress.org/
+
+
+
